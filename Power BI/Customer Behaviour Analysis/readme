@@ -1,1 +1,6 @@
+This is an end to end data analytics project using Python, PostgreSQL, Power BI, GitHub to analyze Customer Behavior and Shopping Trends.
+
+Raw data is loaded and cleaned in Python(using Pandas) where data transformation and exploratory data analysis (EDA) is performed
+further analyzing and solving business problems using PostgreSQL, to build an interactive Power BI dashboard.
+
 
